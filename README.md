@@ -1,3 +1,3 @@
 # EncryptDecrypt-String
 
-Encryption and Decryption String in C++ OOP Concepts
+Simple Encryption and Decryption String in C++ OOP Concepts
